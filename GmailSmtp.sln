@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailSmtp", "GmailSmtp.csproj", "{EEE6B77B-F177-4112-96D7-9CB788672E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailSmtpTest", "..\GmailSmtpTest\GmailSmtpTest.csproj", "{54A134B1-3513-49BF-A969-47104E52B54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE6B77B-F177-4112-96D7-9CB788672E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE6B77B-F177-4112-96D7-9CB788672E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE6B77B-F177-4112-96D7-9CB788672E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE6B77B-F177-4112-96D7-9CB788672E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A134B1-3513-49BF-A969-47104E52B54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A134B1-3513-49BF-A969-47104E52B54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A134B1-3513-49BF-A969-47104E52B54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A134B1-3513-49BF-A969-47104E52B54D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C892AE79-2DBF-4A42-8C66-FAD05FF42380}
+	EndGlobalSection
+EndGlobal
